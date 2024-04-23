@@ -1,0 +1,12 @@
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\Mty.Presentation.csproj.AssemblyReference.cache
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\Mty.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\Mty.Presentation.AssemblyInfoInputs.cache
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\Mty.Presentation.AssemblyInfo.cs
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\Mty.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\bin\Debug\net6.0\Mty.Presentation.deps.json
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\bin\Debug\net6.0\Mty.Presentation.dll
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\bin\Debug\net6.0\Mty.Presentation.pdb
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\Mty.Presentation.dll
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\refint\Mty.Presentation.dll
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\Mty.Presentation.pdb
+C:\Users\OWNER\Desktop\Project\MTYInstitute\Mty.Presentation\obj\Debug\net6.0\ref\Mty.Presentation.dll
