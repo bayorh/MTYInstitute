@@ -8,7 +8,7 @@ using Domain.Shared;
 namespace Application.Parents.Commands.CreateParent;
 
 
-public sealed class CreateParentCommandHandler : ICommandHandler<CreateParentCommand>
+internal sealed class CreateParentCommandHandler : ICommandHandler<CreateParentCommand>
 {
     private readonly IParentRepository _parentRepository;
     private readonly IUnitOfWork _unitOfWork;
